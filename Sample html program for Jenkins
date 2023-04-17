@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Web Page</title>
+  </head>
+  <body>
+    <h1>Welcome to my website!</h1>
+    <p>Here's some text that describes what my website is all about.</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+    <a href="https://www.example.com">Click here</a> to visit another website.
+  </body>
+</html>
